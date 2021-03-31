@@ -1,6 +1,4 @@
-# Real vs Recorded/artificial audio classifier
-
-## Audio Features
+﻿## Audio Features
 ## Summary
 * **Audio Signal:** An audio signal is a representation of sound which is caused by vibration and propagated by to and fro motion of a medium(generally air).
 * The following are the important properties of an audio signal:
@@ -38,5 +36,4 @@
 *   For shallower models Mel-frequency Cepstral Coefficients(MFCC) spectrogram can be used.
 
 #### Click [here](http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/) for more information on MFCC.
-
 

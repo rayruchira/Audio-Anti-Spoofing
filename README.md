@@ -1,3 +1,5 @@
+## [Feature Genuinization based Residual Squeeze-and-Excitation for Audio Anti-Spoofing in Sound AI](https://ieeexplore.ieee.org/document/9580127)
+
 # Real vs Recorded/artificial audio classifier
 
 - [Dataset](/Dataset)
